@@ -1,3 +1,4 @@
+
 const { TonClient, abi } = require("@tonclient/core");
 const { libNode } = require("@tonclient/lib-node");
 TonClient.useBinaryLibrary(libNode);
